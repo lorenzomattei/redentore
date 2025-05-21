@@ -6,6 +6,7 @@ Nei rispettivi blocchi vanno a formarsi anche delle alleanze: nel '49 nasce la N
 | ------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **Politica** | Liberal-democrazia (liberalismo)<br>Pluralismo partitico | Partito unico(Comunista=vera democrazia[^1])<br>                                                          |
 | **Economia** | Liberismo(libertà di iniziativa imprenditoriale)         | Collettivismo(economia di stato)<br>Nazionalizzazione dell'industria e collettivizzazione delle terre[^2] |
+
 Nel frattempo, l'Europa pongono le premesse per l<u>'integrazione europea</u>. Si crea una comunità prima economica(CEE nel 1957), e poi politica (UE nel 1992). 
 Molti paesi europei, soprattutto Francia e Gran Bretagna, devono affrontare il processo di decolonizzazione, che si svolge in maniera non sempre pacifica. 
 - Guerra in Algeria, 1954-1962;
