@@ -1,11 +1,11 @@
-La ripresa è chiaramente quella del dadaismo storico della prima guerra mondiale, ora però ci troviamo nel secondo dopo guerra. Si recuperano ispirazioni tipiche del dadaismo classico, contaminandole con quello che abbiamo visto nell'espressionismo astratto. 
+![image](https://github.com/user-attachments/assets/9ae8ab06-b415-4c78-aedb-cdcb250a91ed)La ripresa è chiaramente quella del dadaismo storico della prima guerra mondiale, ora però ci troviamo nel secondo dopo guerra. Si recuperano ispirazioni tipiche del dadaismo classico, contaminandole con quello che abbiamo visto nell'espressionismo astratto. 
 
 # Bed, l'autoritratto neo-dadaista *
 
 <table width=100%>
 <tr>
 	<td width=50%>  <img src="https://i.pinimg.com/236x/82/f7/7e/82f77ee611537b8a9f632542dc6f3008.jpg">
-	 Robert Rauschenberg, <i>Bed</i>, 1955 <br> 
+	<br> Robert Rauschenberg, <i>Bed</i>, 1955 <br> 
 	<br>
 	</td>
 	<td width=50%>Il letto è incorniciato e appeso alla parete, in verticale. Però come facciamo a definirlo un autoritratto? Gli oggetti consumati portano la storia di colore che li hanno usati, si sedimenta su di essi molto più della persona piuttosto che, ad esempio, una fotografia dell'artista. A livello cronometrico ci si passa molto più tempo rispetto che ad ogni altro luogo. Letto come luogo molto intimo e soggettivo, che rappresenta perfettamente la persona: ecco perché lo definiamo un autoritratto. 
