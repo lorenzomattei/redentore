@@ -1,12 +1,12 @@
 Naviga le materie...<br>
-[[Filosofia V anno]]
+[[Filosofia V anno]]<br>
 <br>
-[[Fisica V anno]]
+[[Fisica V anno]]<br>
 <br>
-[[Inglese V anno]]
+[[Inglese V anno]]<br>
 <br>
-[[Scienze V anno]]
+[[Scienze V anno]]<br>
 <br>
-[[Storia V anno]]
+[[Storia V anno]]<br>
 <br>
-[[Storia dell'arte V anno]]
+[[Storia dell'arte V anno]]<br>
