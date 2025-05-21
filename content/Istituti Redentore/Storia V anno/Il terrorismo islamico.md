@@ -7,7 +7,7 @@ Questo terrorismo di matrice islamista, però, colpisce anche l'Europa.
 - 2011, attentati a Oslo
 - 2015, attentati a Parigi
 - 2016, attentati a Bruxelles <br>
-<br>
+
 La contro offensiva occidentale, tra Afghanistan e Iraq portava allo smantellamento di queste offensive. 
 Se i primi attentati del primo decennio del XXI secolo vanno iscritti ad Al-Qaeda, dal 2010 emerge un nuovo gruppo terroristico, l'ISIS. Con a capo al-Baghdadi fino alla sua morte nel 2019, la figura del califfo esprime il successore di Maometto. Ultimo califfato fino alla fine della prima guerra mondiale, impero ottomano aveva fatto parte della guerra insieme agli imperi centrali di Austria-Ungheria e Germania. Questo non vuole certo dire che si sia risolto il problema del terrorismo internazionale. 
 
