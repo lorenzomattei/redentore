@@ -1,2 +1,3 @@
-Fq-->E= F/Q
-Uq-->V= Uq/q [Volt=J/c]
+$Fq-->E= F/Q$ <br>
+<br>
+$Uq-->V= Uq/q [Volt=J/c]$
