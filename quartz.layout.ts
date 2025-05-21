@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/lorenzomattei/redentore",
-      "Istituti Redentore": "istitutiredentore.it",
     },
   }),
 }
