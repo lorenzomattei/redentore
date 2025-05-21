@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ae8ab06-b415-4c78-aedb-cdcb250a91ed)La ripresa è chiaramente quella del dadaismo storico della prima guerra mondiale, ora però ci troviamo nel secondo dopo guerra. Si recuperano ispirazioni tipiche del dadaismo classico, contaminandole con quello che abbiamo visto nell'espressionismo astratto. 
+La ripresa è chiaramente quella del dadaismo storico della prima guerra mondiale, ora però ci troviamo nel secondo dopo guerra. Si recuperano ispirazioni tipiche del dadaismo classico, contaminandole con quello che abbiamo visto nell'espressionismo astratto. 
 
 # Bed, l'autoritratto neo-dadaista *
 
