@@ -1,38 +1,34 @@
-Con la Seconda Guerra Mondiale cambia tutto: i nuovi movimenti artistici hanno gli Stati Uniti come culla o punto di avvio. Dalla Seconda Guerra Mondiale in poi cambia la concezione stessa dell'arte, delle forme artistiche e dei materiali utilizzati per realizzare le opere. Fino ad allora, l'arte aveva focalizzato l'attenzione sulle tre arti maggiori: pittura, scultura e architettura.
+**Dalla Seconda Guerra Mondiale in poi**
 
-Ora tutto può diventare arte, ad esempio una performance.  
-Se tutto diventa arte, allora ogni materiale può essere usato con dignità artistica. La forma viene meno, ovvero ciò che dà struttura, riconoscibilità e identità. L'arte non fa altro che imitare la perdita di qualsiasi criterio che un orrore come la Seconda Guerra Mondiale ha causato.
+Con la Seconda Guerra Mondiale cambia radicalmente il panorama artistico: gli Stati Uniti diventano il centro propulsore dei nuovi movimenti. Cambia la concezione stessa dell’arte, delle forme artistiche e dei materiali utilizzati. Fino ad allora l’attenzione era rivolta alle tre arti maggiori: pittura, scultura e architettura.
 
-### Informale Materico
+Da questo momento, tutto può diventare arte, ad esempio una _performance_. Se tutto è arte, ogni materiale può essere utilizzato con dignità artistica. La _forma_ perde importanza: non è più ciò che struttura, identifica e rende riconoscibile l’opera. L’arte riflette così la perdita di criteri e certezze causata dagli orrori della guerra.
 
-La centralità della materia rispetto alla forma: è la materia che deve parlare, e l’artista deve rinunciare alla pretesa di imprimere una forma. La materia è la protagonista, cambia, muta, si rovina ed è soggetta al tempo.
+---
 
-### Informale Gestuale
+**Informale Materico**  
+La materia è protagonista assoluta. È la materia che deve parlare, l’artista deve rinunciare alla volontà di darle una forma. La materia muta, si rovina, invecchia, ed è soggetta al tempo.
 
-Il gesto artistico prevale sulla sua finalità.
+**Informale Gestuale**  
+Il gesto prevale sul risultato. È il fare, l’azione dell’artista, che ha valore, indipendentemente dal prodotto finale.
 
-### Informale Segnico
+**Informale Segnico**  
+I segni non hanno significato: il significante è sganciato dal significato. I segni sono posti in modo casuale, senza intenzione comunicativa, privi di un codice condiviso.
 
-Sgancia il significante dal significato. Di solito, un segno è un elemento significante che esprime un significato: se trovo un omino su una porta, vuol dire che è il bagno dei maschi; se trovo una donnina, è quello delle femmine. È un significante a cui associo un significato. I segnici, invece, usano segni casuali che non hanno significato l’uno vicino all’altro.
+**Informale Tachismo**  
+Macchie di colore informi, gettate sulla tela per esprimere liberamente lo stato d’animo. È una pittura istintiva, non programmata.
 
-### Informale Tachismo
+---
 
-Macchie di colore prive di forma, poste per esprimere in maniera del tutto libera il sentire o lo stato d’animo di chi le realizza.
+**Alberto Burri**  
+Utilizza materiali di scarto, privi di valore o utilità: sacchi, legni bruciati, plastiche fuse. È lontano dalla nobiltà del bronzo o del marmo classico.  
+La materia racchiude in sé una _storia_, un _vissuto_. Nell’**Informale Materico**, Burri porta in primo piano questa storia insieme alla materia stessa.  
+L’artista non impone nulla: usa ad esempio la fiamma per distruggere la plastica, facendola rinascere come la fenice.  
+Nel **Cretto**, la materia si scalda, poi si ritira e si spacca. Le crepe non sono decise dall’artista, ma sono effetto della materia viva che genera da sola l’opera. La creazione è frutto dell’interazione tra materiali diversi, in modo autonomo.
 
-Alberto Burri
+---
 
-usa materiali di scarto, che non hanno piu valore ne utilita, siamo molto lontani dal ronzo o marmo classico.
-i materiali racchiudono in loro stessi i visuti e le storie di cui sono stati protagonisti linformale materico mette in pirmo piano la storia della materia insieme alla sua materia stessa
-
-burri vuyole una materia che non ha piu un utilita ma che ha una sua qualita usa la fiamma per distruggere la plastica , ad esempio. 
-la materia rinasce dalle sue ceneri cvome la fenicie 
-Cretto, ijvece la materia si stacca diopo essersi scaldata burrri vuole riprodurre leffetto di screpolatura che segnano la materia al di la dellintensionaia dellartista lui non decide e tutto affidato alla materia che vive di vita propria ed interagdnedo con uyn altra materia si genera lopera darte da sola. 
-
-fontana
-
-losservatire si trova dentro un ambiento dentro il quale entrare si usano tutti e 5 i sensi non si tratta solo di gyrafrdarwe il quadro, un esperienza che diventa immersiva. 
-
-tagli applicazione della tridimensionalita si rompe letteralmente la tela per entrarfi dentro per entrrare a contatto con la profondita della tela si va oltre si viva veramente la terza dimensione che senno sarebbe simulata(propsettiva)
-
-ambienti spaziali
-
+**Lucio Fontana**  
+Con i suoi _Ambienti spaziali_, lo spettatore entra fisicamente nell’opera: l’arte coinvolge tutti i cinque sensi, non è solo da guardare, ma da _vivere_.  
+I celebri _tagli_ sulla tela sono un’applicazione della tridimensionalità: la superficie non rappresenta più la profondità (come nella prospettiva), ma _è_ profondità.  
+Fontana rompe letteralmente la tela per accedervi, per superare i limiti del quadro e dare spazio reale, vissuto, alla terza dimensione.
