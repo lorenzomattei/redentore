@@ -1,3 +1,7 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+---
 La scena rap mondiale cambia: non si ha più come fulcro l'Europa ma si hanno due poli opposti, USA e URSS. In maniera fluida, gli altri paesi seguono questa divisione prendendo posizione. Si crea una "cortina di ferro".
 ![Mappa del Bipolarismo](1200px-Iron_Curtain_map.svg.png)
 
