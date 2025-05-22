@@ -10,7 +10,6 @@
 <br>
 [[Metabolismo dei glucidi]] <br>
 <br>
-
 [[Marie Tharp, la cartografa della deriva dei continenti]]<br>
 <br>
 [[La struttura interna della terra]] <br>
