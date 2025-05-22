@@ -2,7 +2,7 @@
 tags:
   - linguaggio_e_comunicazione
 ---
-
+#linguaggio_e_comunicazione
 STORIA DEL PENSIERO CONTEMPORANEO
 1. LA FILOSOFIA DEL SECONDO OTTOCENTO (i padri: Marx, Nietzsche, Freud) 
 2. LA FILOSOFIA DEL XX-XXI secolo (il pensiero più strettamente contemporaneo) 
