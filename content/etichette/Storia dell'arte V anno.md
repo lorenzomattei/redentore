@@ -16,3 +16,17 @@
 <br>
 [[Razionalismo]] <br>
 <br>
+[[Neo dadaismo]] <br>
+<br>
+[[École de Paris]] <br>
+<br>
+[[L'arte informale]] <br>
+<br>
+[[Espressionismo astratto]] <br>
+<br>
+[[Realismo]] <br>
+<br>
+[[Metafisica]] <br>
+<br>
+
+

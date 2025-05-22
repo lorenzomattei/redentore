@@ -1,5 +1,4 @@
 
-
 La **Grande Guerra**, conosciuta come **Prima Guerra Mondiale**, è uno dei conflitti più devastanti della storia, non solo per l'ampiezza della sua partecipazione, ma anche per la sua natura **totale**. Questa guerra coinvolse non solo gli eserciti, ma anche le popolazioni civili, trasformando città e campagne in trincee e fronti di battaglia.
 
 ### Caratteristiche della Guerra

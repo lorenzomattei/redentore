@@ -6,10 +6,10 @@ Il primo documento è del 1891, l’enciclica di LEONE XIII “RERUM NOVARUM”.
 
 Dalla Rerum Novarum si sono susseguiti numerosi interventi, ad esempio la PACEM IN TERRIS (1962) di Giovanni XXIII, fino alla LAUDATO SI’ (2015) di FRANCESCO, che rappresenta il manifesto dell’ambientalismo cristiano.
 
-Quali sono i PRINCIPI della DSC?
+Quali sono i PRINCIPI della DSC?<br>
 
--       Libertà
+-       Libertà <br>
 
--       Bene comune
+-       Bene comune<br>
 
 -       Il principio classico della DSC è la SUSSIDIARIETA’: lo Stato deve intervenire nella vita delle società minori (famiglie, imprese) solo con interventi mirati e temporanei di supporto (NO ASSISTENZIALISMO, NO ASSENTEISMO).

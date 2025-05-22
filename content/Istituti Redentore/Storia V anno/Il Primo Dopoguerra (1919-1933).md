@@ -1,9 +1,7 @@
-
-
 ## Dalla crisi post-bellica all'ascesa di fascismo e nazismo (1919-1922) 
 
 La crisi che pervade l'Europa post-bellica può essere *declinata* in diversi modi: <br>
-1. **Geograficamente**: la crisi colpisce tutta l'Europa. Non vi è un paese che non sia colpito dalla crisi: <u>sia vinti che vincitori soffrono</u>, nonostante i vinti, per ovvi motivi, soffrano di più. Nonostante questo, il dopoguerra si rivela un periodo di grande crescita economica per gli **Statuses Uniti**, che escono rafforzati dal conflitto. <br>
+1. **Geograficamente**: la crisi colpisce tutta l'Europa. Non vi è un paese che non sia colpito dalla crisi: <u>sia vinti che vincitori soffrono</u>, nonostante i vinti, per ovvi motivi, soffrano di più. Nonostante questo, il dopoguerra si rivela un periodo di grande crescita economica per gli **Stati Uniti**, che escono rafforzati dal conflitto. <br>
 2. **Economicamente**: data dalla mancanza di beni e quindi una crisi di benessere. Primo fra tutti l'aumento del debito pubblico che cause ovviamente un differente indirizzamento dei beni a disposizione per ripagarlo. Ciò ovviamente causa un forte aumento dell'inflazione: si passa da una economia di guerra a una economia per la vita di tutti i giorni. <br>
 3. **Moralmente**: l'occupazione di Fiume da parte delle truppe paramilitari guidate dalle idee di D'Annunzio è causata da una crisi morale che pervade l'Italia nel primo dopoguerra. <br>
 4. **Politicamente**: la politica deve dare risposte, se la politica non le riesce a dare è ovvio che poi si ricerchi una nuova politica e quindi i regimi totalitari che poi si sono affermati dalla penisola iberica fino all'est Europa. La gente si fida di chi promette, e questi regimi dispotici sono un po' la risposta a questa crisi. <br>
@@ -28,7 +26,7 @@ In Baviera, vi sono delle rivoluzioni di stampo comunista (Lega di Spartaco)<br>
 Con il trattato di Versailles, la Germania viene umiliata su ogni fronte: perde territori, ecc…<br>
 Nel 1920 nasce il Partito nazionalsocialista tedesco dei lavoratori, poi crasato in nazista. <br>
 
-Con la sempre crescente influenza dell'URSS in Europa, c'è bisogno di una Germania forte per evitare che diventi una succursale dell'Unione Sovietica. Germania come baluardo control il pericolo "rosso"<br>
+Con la sempre crescente influenza dell'URSS in Europa, c'è bisogno di una Germania forte per evitare che diventi una succursale dell'Unione Sovietica. Germania come baluardo contro il pericolo "rosso"<br>
 - Piano Dawes: un piano economico volto a risollevare l'economia tedesca;<br>
 - Patto di Locarno: conferenza per alleviare le ostilità nei confronti della Germania, che viene ammessa nella Società delle Nazioni nel 1926.<br>
 Nel '28, il Partito Nazista ha solo il 2,6% dei voti: non conta un cazzo.<br>

@@ -6,5 +6,3 @@ Quello che viene rappresentato è legato a dinamiche interiori e slegate dalla r
 
 ## Action painting
 Ciò che conta è, come nell'informale gestuale, l'azione che l'artista compie per raggiungere l'obiettivo, un gesto irrazionale, senza fine. Tecniche utilizzate: dripping, pouring. Per Pollock la pittura diventa una terapia per curare le sue varie malattie psichiche. Stop.
-
-## Color field panting 

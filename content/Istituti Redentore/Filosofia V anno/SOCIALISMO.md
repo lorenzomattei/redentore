@@ -13,7 +13,7 @@ Marx nel *[manifesto](obsidian://open?vault=Mon%20cervaux&file=01%20scuola%2FFil
 ## ***Charles Fourier***
 
 Un architetto che progetta il *falansterio:* un modello di villaggio ideale. 
-![[Phalanstère.jpg]]
+![[6c85f59914aa249b6a22c894a4713f89.jpg]]
 Un elemento immerso nella natura. Una critica alle città industriali brutte. sporche. poco salubri. Abbiamo l’elemento estetico, la società industriale è senza bellezza. Il falansterio invece è dentro al verde ed esteticamente Bello. Poi ancora, ci sono i luoghi di lavoro, i luoghi di svago, una biblioteca, un teatro = importante il lavoro ma anche lo svago. 
 
 # 2. Socialismo “Scientifico” - Marxiano

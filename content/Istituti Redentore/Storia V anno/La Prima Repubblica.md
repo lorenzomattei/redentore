@@ -21,16 +21,8 @@ Dagli anni '70, l'Italia vede una serie di atti terroristici, fatti da associazi
 92-92, la procura di Milano porta avanti l'inchiesta giudiziaria chiamata "Mani pulite". Questo decapita la Prima Repubblica, per dare spazio a chi fino a quel momento era stato all'opposizione. Questo è il momento in cui anche leader come Berlusconi scendono in campo.
 
 
+
+
 [^1]: Si veda [[La dottrina Breznev]]
 
 [^2]: Comitato Liberazione Nazionale
-
-
-
-la resistenzae. il 25 aprile
-2 gougno 
-elzione del 18 aprile 48
-integrazione europea
-l'onu per la governance mondiale
-
-Dal centrismo, 

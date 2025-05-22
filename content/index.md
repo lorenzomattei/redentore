@@ -6,6 +6,8 @@ Naviga tra le materie... <br>
 <br>
 [[Inglese V anno]]<br>
 <br>
+[[Italiano V anno]]<br>
+<br>
 [[Scienze V anno]]<br>
 <br>
 [[Storia V anno]]<br>

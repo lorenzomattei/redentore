@@ -44,7 +44,7 @@ Freud segue i corsi di *Charcot*, che **cura le isteriche attraverso l'ipnosi**.
 La rimozione però non è una cancellazione totale: l'elemento rimosso permane all'interno dell'inconscio e, a distanza di anni, può ripresentarsi, anche se non direttamente: c'è infatti un meccanismo psichico di protezione che si chiama *censura*, che impedisce il ritorno dell'elemento traumatico rimosso.
 La pressione psichica ai confini con la coscienza innesca il sintomo isterico.
 
-![[PROCESSO DI ELIMINAZIONE FREUD]]
+![[eliminazione.png]]
 
 Il metodo freudiano è definito *catartico*: orientato cioè alla **purificazione totale della personalità** del paziente. Il sintomo isterico viene fuori da qualcosa che è stato rimosso, si deve quindi rintracciare in qualche modo l'*item* rimosso per poterlo affrontare. 
 Due sono le tecniche utilizzate:
@@ -54,7 +54,7 @@ Due sono le tecniche utilizzate:
 - Le **associazioni libere**:[^3] parlando liberamente e descrivendo la propria infanzia e i sogni… lo psicoanalista può individuare segnali o aspetti che normalmente verrebbero ignorati. Il rilassamento del paziente è essenziale in questo processo, così che le barriere della <u>censura</u> si possano sbiadire. 
   L'analista deve mettere in conto che potrebbe scaturire un'infatuazione nel rapporto paziente-analista. Questo avvenimento viene definito *transfert*, e rende pericoloso il metodo freudiano.
 
-![[PROCESSO DI RITORNO TRAMITE IPNOSI FREUD]]
+![[Pasted image 20250206134558.png]]
 
 [^2]: C.f.r *Studi sull'isteria*, 1895.
 [^1]: Opera intrapsichica attraverso la quale un *item* viene spostato dalla coscienza verso un'area della mente di cui non siamo consapevoli. 

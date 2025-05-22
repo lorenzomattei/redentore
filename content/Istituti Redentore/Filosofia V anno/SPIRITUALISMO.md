@@ -67,5 +67,3 @@ Per nergson ci sono due strumenti conoscitivi, cioè due tipi di  conopscnezna e
  -   **l'intuizione**: cioè il cogliere immediato della realtà, ineffabile e quindi indicibile
 
 La comprensione piena di questi due strumenti la lasciamo alla analisi del testo che faremo martedì
-
-Potremmo dire che <u>con l'intelligenza conosciamo le cose dall'esterno</u>, mentre con, v

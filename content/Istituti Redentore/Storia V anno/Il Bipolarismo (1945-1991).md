@@ -23,7 +23,7 @@ Si può periodizzare il bipolarismo seguendo i principali eventi, come nella tab
 ### Prima Guerra Fredda (1945-1953)
 
 Con le conferenze di Yalta e di Potsdam si divide il mondo in due sfere di influenza, che deve decidere di seguire l'URSS o gli USA. 
-Nel 1948, la prima grande tensione avviene con la chiusura di Berlino: l'Unione Sovietica impedisce i l'accesso via terra che rimane isolata. Per circa 11 mesi i rifornimenti avvengono tramite via aerea. 
+Nel 1948, la prima grande tensione avviene con la chiusura di Berlino: l'Unione Sovietica impedisce l'accesso via terra che rimane isolata. Per circa 11 mesi i rifornimenti avvengono tramite via aerea. 
 Dopo circa un anno, scoppia un'altra grandissima crisi: la guerra di Corea. Come la Germania, anche la Corea era stata divisa in due, al 38esimo parallelo Nord. Nel 1950, la Corea del Nord vuole conquistare la Corea del Sud, inizia il conflitto comunismo vs capitalismo. Si noti che in questa prima fase la natura più belligerante è quella dell'Uniona Sovietica. Gli USA rispondono, fino a conquistare quasi l'interezza della Corea del Nord. Segue l'intervento della Cina, che sancisce il ritorno allo *status quo ante*. Entro il 1953, si definisce la divisione in due della Corea al 38esimo meridiano. 
 
 ### Tra coesistenza pacifica e crisi internazionali (1953-1962)
@@ -54,6 +54,10 @@ Finisce quindi la Guerra Fredda, ma al contempo finisce anche il bipolarismo.
 
 25 dicembre 1991, Gorbachev si dimette e l'URSS cessa di esistere. Un'istanza paradossale: colui che aveva reso il paese più trasparente e liberale, demolendo la struttura rigida che teneva in piedi il paese, causa il riemergere di tutte quelle contraddizioni politiche, economiche, sociali e culturali nascoste fino a prima. 
 FINE DEL BIPOLARISMO
+
+
+
+
 
 [^1]: Per i sovietici, i partiti sono uno strumento che indeboliscono il popolo in quanto lo dividono. La vera essenza della democrazia è quindi l'esistenza di un solo partito. 
 [^2]: Cfr. Marx, Il Manifesto del Partito Comunista, 1848.
