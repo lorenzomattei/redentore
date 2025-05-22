@@ -1,3 +1,8 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+  - linguaggio_e_comunicazione
+---
 # Gli aspetti politico-istituzionali
 
 Nell'ottobre del '22 si ha la marcia su Roma, il Re affida a Mussolini il compito di formare il governo. Fino al '24, però, il governo di Mussolini è un governo di coalizione, in quanto non dispone della maggioranza in parlamento. Mussolini era sostenuto da molti liberali e cattolici in quanto rappresentava la soluzione per arginare il problema del comunismo. Con le elezioni del '24 Mussolini riuscirà a raggiungere la maggioranza in parlamento e con il biennio del '25-'26 inizierà a maturare la dittatura fascista grazie a provvedimenti quali le "leggi fascistissime". Nascono anche alcuni organismi che fanno da preludio ad una "fascistizzazione" dello Stato:

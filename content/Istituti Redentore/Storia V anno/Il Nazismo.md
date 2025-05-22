@@ -1,3 +1,8 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+  - linguaggio_e_comunicazione
+---
 Quale denominatore comune possiamo trovare tra Fascismo e Nazismo? Si può partire dal concetto di totalitarismo, una fusione di Stato e partito di regime che si sovrappongono, per poi passare alla funzione propagandistica che la stampa e il cinema hanno nel propagare un'immagine della Germania *ad hoc*. Altro grande aspetto è la censura, che non tollera opinioni contrastanti quelle del partito e che punisce severamente chiunque esprima un parere contrastante. Il totalitarismo si riversa anche nel versante economico: lo Stato controlla ogni aspetto dell'economia. Per quanto riguardo gli affari esteri, la politica espansionistica e aggressiva dell'Italia nei confronti dell'Etiopia si può riscontrare nella Germania Nazista nei confronti dell'Austria, della Polonia e dei Sudeti.
 
 ## Aspetti politico-istituzionali

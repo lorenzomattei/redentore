@@ -1,3 +1,9 @@
+---
+tags:
+  - salute_e_malattia
+  - intellettuale_nella_società
+  - linguaggio_e_comunicazione
+---
 ## **IL REALISMO FRANCESE**
 
 Il **realismo francese** è un movimento letterario che influenzerà in parte anche il realismo italiano. Lo collochiamo cronologicamente alla prima metà dell'800, in Francia.

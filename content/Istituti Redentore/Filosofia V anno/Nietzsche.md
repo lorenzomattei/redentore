@@ -1,3 +1,6 @@
+---
+tags:
+---
 Impeto, gioia di vivere, sregolatezza, anticonformismo sono tutte caratteristiche di Nietzsche. Si avvicina a Schopenhauer e Wagner nella sua giovinezza. Si crea uno <u>sconvolgimento dall'interno, che segna la genesi di un qualcosa di -nuovo</u>: un *oltre-uomo*.
 Lo stile di Nietzsche riflette questo sconvolgimento: la sua scrittura è caratterizzata dall'uso di immagini e storie metaforiche anticonformiste e di rottura totale con il passato. Uno stile che si potrebbe definire **aforistico**, ossia uno scritto <u>breve, denso, di non immediata comprensione, ambiguo, addirittura parabolico</u>. Nietzsche vuole che non solo il contenuto, ma anche la forma sia anticonformista: <u>la crisi delle certezze si riflette anche nel suo stile</u>. 
 

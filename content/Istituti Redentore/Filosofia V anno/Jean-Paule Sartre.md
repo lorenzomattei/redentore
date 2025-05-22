@@ -1,3 +1,7 @@
+---
+tags:
+  - intellettuale_nella_società
+---
 Maitre à penser, con la sua compagna Simone de Beauvoir, teorico della coppia aperta. 
 Per quanto riguarda la sua filosofia possiamo dire almeno un paio di cose...
 La sua ontologia, metafisica: come filosofo continentale il suo obiettivo è quello di indagare l'essere. Opera di riferimento è L'essere e il Nulla, abbastanza esemplificativo della sua adesione alla filosofia continentale. Dal punto di vista metodologico rimane fedele al metodo fenomenologico, dal fenomeno si cercano gli elementi costitutivi e trascendentali. L'essere, c'è, e il Nulla? Ontologia si ma un senso che non c'è: il Nulla. L'essere esiste ma non ha un senso, visione quindi pessimistica. 

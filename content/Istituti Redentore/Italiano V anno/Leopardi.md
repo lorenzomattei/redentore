@@ -1,3 +1,9 @@
+---
+tags:
+  - intellettuale_nella_società
+  - guerra_conflitti_e_pace
+  - linguaggio_e_comunicazione
+---
 
 ## Vita
 

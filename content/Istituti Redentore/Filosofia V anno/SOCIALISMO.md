@@ -1,3 +1,9 @@
+---
+tags:
+  - intellettuale_nella_società
+  - guerra_conflitti_e_pace
+  - natura_civilità_progresso
+---
 Nell’800 si sviluppa una riflessione mossa dalla condizione sociale, dalla rivoluzione industriale, con l’obbiettivo di addivenire a una giustizia sociale.
 
 # 1. Socialismo Utopistico

@@ -1,3 +1,15 @@
+---
+tags:
+  - figure_femminili
+  - guerra_conflitti_e_pace
+  - identità_e_coscienza
+  - il_doppio_e_la_maschera
+  - linguaggio_e_comunicazione
+  - natura_civilità_progresso
+  - salute_e_malattia
+  - amore_affetti_famiglia
+  - forma_e_trasformazione
+---
 # Politics and the English Language
 Essay about the importance of language in politics. 
 *'Things like the continuance of British rule in India, the Russian purges and*

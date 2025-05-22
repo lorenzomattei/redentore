@@ -1,3 +1,7 @@
+---
+tags:
+  - intellettuale_nella_società
+---
 
 Eliminate che furono le cosiddette ingiustizie sociali, il governo si rese conto di aver fatto, per la felicità della popolazione, poco o niente. Varie altre amarissime ingiustizie rimanevano da sanare. Ormai non esistevano più ricchi e poveri. Esistevano soltanto poveri. Tecnicamente questa era la soluzione esatta.
 

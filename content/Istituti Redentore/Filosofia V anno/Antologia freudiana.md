@@ -1,3 +1,7 @@
+---
+tags:
+  - identità_e_coscienza
+---
 # Psicopatologia della vita quotidiana, 1901
 
 *"A un'altra paziente mi accade di dover esprimere, in una certa fase dell'analisi, il sospetto che essa all'epoca di cui stiamo appunto trattando si sarebbe vergognata della propria famiglia e avrebbe fatto a suo padre un rimprovero che non ci è ancora noto. Ella non ricorda nulla del genere e dichiara inoltre di ritenere la cosa come inverosimile. Continua però la conversazione con osservazioni sulla sua famiglia: "Bisogna ammettere che si tratta di persone non comuni, di grande Geiz (avarizia)… volevo dire Geist (spirito)." E questo era proprio il rimprovero che aveva rimosso dalla sua memoria. che nel lapsus si affermi proprio quell'idea che si vorrebbe escludere, è fatto molto comune […]"*

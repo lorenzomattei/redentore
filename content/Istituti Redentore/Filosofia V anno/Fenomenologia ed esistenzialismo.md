@@ -1,3 +1,8 @@
+---
+tags:
+  - figure_femminili
+  - identità_e_coscienza
+---
 Padre del pensiero fenomenologico è Edmund Husserl, tra i suoi discepoli ricordiamo Martin Heidegger che si staccherà poi dal maestro per confluire nella corrente dell'esistenzialismo, ed Edith Sein[^1], filosofa ebra che si convertirà al cattolicesimo.
 La fenomenologia può essere intesa in due modi: come <u>ontologia</u> (individuare il senso dell'essere e dell'esserci) ma anche come <u>metodo di indagine</u> dell'essere stesso, partendo dall'esperienza. Da questo punto di vista, la fenomenologia come metodo sarà ripresa da vari filosofi. Fenomenologia -> ciò che appare.
 Si vanno a cercare le condizioni e le strutture di fondo che costituiscono l'esperienza stessa, in altre parole gli elementi trascendentali.

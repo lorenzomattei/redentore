@@ -1,3 +1,6 @@
+---
+tags:
+---
 # La Genealogia della morale[^5]
 
 ## Da dove nascono i valori tradizionali?[^6]

@@ -1,3 +1,8 @@
+---
+tags:
+  - identità_e_coscienza
+  - salute_e_malattia
+---
 Freud è il padre della psicanalisi, cioè un esponente della storia della PSICOLOGIA, uno dei più significativi. Ovviamente in questo corso ci interessano, di Freud, gli aspetti filosofici, in primis la scoperta dell’inconscio, la qual cosa ci permette di annoverare Freud tra i padri del pensiero contemporaneo.
 Tuttavia l’occasione può essere opportuna per un excursus sulla psicologia e la sua storia.
 La psicologia come scienza autonoma nasce nella seconda metà dell’Ottocento: siamo intorno al 1870, con la scuola di Lipsia e W.WUNDT.

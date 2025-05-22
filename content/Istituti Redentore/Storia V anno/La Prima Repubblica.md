@@ -1,3 +1,9 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+  - linguaggio_e_comunicazione
+  - natura_civilità_progresso
+---
 In questo periodo l'Italia vive una sorta di sovranità limitata, in quanto è anch'essa inserita nella logica del bipolarismo[^1]. 
 # La Resistenza
 Prima del 2 giugno del 1946, la base della convivenza civile è la resistenza partigiana, che ha certamente avuto le sue violenze ed ingiustizie, ma è stata anche la volontà di contrapporsi ad un regime(quello nazifascista) violento, razzista...

@@ -1,3 +1,9 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+  - linguaggio_e_comunicazione
+  - il_tempo
+---
 # Le cause
 
 Le condizioni di pace dettate dal trattato di Versailles avevano pesantemente colpito ed umiliato la Germania che si era vista mutilata territorialmente e moralmente insieme all'Italia.[^1] Inoltre, la nascita di statuses autoritari e tendenzialmente belligeranti dettata da una generale situazione di crisi, aiuta lo scoppio della guerra.

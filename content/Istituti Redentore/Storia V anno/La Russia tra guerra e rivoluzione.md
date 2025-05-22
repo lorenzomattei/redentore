@@ -1,3 +1,9 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+  - linguaggio_e_comunicazione
+  - natura_civilità_progresso
+---
 Prima dello scoppio della Grande Guerra, un marcato senso di **arretratezza** caratterizzava l'intera Russia, manifestandosi in <u>ambito politico, economico e sociale</u>. Tale arretratezza trovò espressione nella sconfitta subita durante la <u>guerra russo-giapponese del 1905, evento che contribuì a innescare la rivoluzione dello stesso anno</u>. Si veda il film _La corazzata Potëmkin_ del 1925.
 La guerra funge da catalizzatore per tutte le varie crisi interne che si erano format e le eleva all'ennesima potenza. 
 

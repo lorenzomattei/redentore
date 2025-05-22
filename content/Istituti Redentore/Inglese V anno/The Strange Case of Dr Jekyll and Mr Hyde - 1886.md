@@ -1,3 +1,9 @@
+---
+tags:
+  - il_doppio_e_la_maschera
+  - natura_civilità_progresso
+  - forma_e_trasformazione
+---
 
 ## Protagonists
 

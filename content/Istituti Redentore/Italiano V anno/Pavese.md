@@ -1,3 +1,10 @@
+---
+tags:
+  - linguaggio_e_comunicazione
+  - identità_e_coscienza
+  - guerra_conflitti_e_pace
+  - viaggio_esilio_migrazioni
+---
 ## Campagna e città
 Il campagnolo in città si sente come un cittadino in campagna, mai realizzato nel luogo in cui è. Si manifestano pulsioni selvagge, simboli come la collina, che torna con insistenza nell'opera di Pavese. Come immagine femminile, situazioni archetipiche, fecondità, collina come luogo mitico ed unico. 
 Ricerca del viaggio, ritorno alla realtà alternativa però impossibile, se non ritornando alle proprie origini grazie all'infanzia. Il viaggio presuppone un ritorno che però non si realizza mai. Durante il viaggio si cambia, quindi non si può più ritornare.

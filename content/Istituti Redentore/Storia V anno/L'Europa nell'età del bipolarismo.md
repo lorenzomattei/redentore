@@ -1,3 +1,8 @@
+---
+tags:
+  - natura_civilità_progresso
+  - guerra_conflitti_e_pace
+---
 Durante la Guerra Fredda l'Europa è attraversata non solo dalla "cortina di ferro" di Churchill, ma anche da una linea ideologica che divide il mondo nei due poli dell'età del bipolarismo. 
 Questa divisione *salomonica* si ripercuote anche sulla Germania ma soprattutto sulla città di Berlino, che vengono divisi in Est ed Ovest. 
 Nei rispettivi blocchi vanno a formarsi anche delle alleanze: nel '49 nasce la NATO, l'alleanza militare dei paesi filo-americani, mentre nel '55 i paesi sovietici siglano il Patto di Varsavia. 

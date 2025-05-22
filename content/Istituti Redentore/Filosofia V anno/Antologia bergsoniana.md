@@ -1,3 +1,7 @@
+---
+tags:
+  - il_tempo
+---
 ## Introduzione alla metafisica (1903)
 
 Il ***continuo divenire*** di Bergson è diverso da quello Manzoniano provvidenzialistico o meccanicistico-deterministico dei positivisti. E' un qualcosa di intrinseco: **la natura stessa fa scaturire** dal suo grembo <u>il divenire, la produzione di nuove forme</u>. La tesi **gnoseologica** (della conoscenza) bergsoniana riguarda l'**intuizione**. L'intuizione ci permette di comprendere la realtà, che è un flusso continuo. Quanto più riusciamo ad aggrapparci a questo flusso, attraverso l'intuizione, più riusciamo a comprenderlo. Insieme all'intuizione, vi è anche l'intelligenza. L'intelligenza ci permette di analizzare la realtà nei suoi veri caratteri, ma al contempo la snatura. 

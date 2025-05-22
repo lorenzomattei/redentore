@@ -1,3 +1,8 @@
+---
+tags:
+  - il_tempo
+  - il_doppio_e_la_maschera
+---
 In senso generale, lo **spiritualismo** è un tipo di metafisica, cioè una riflessione sul senso della realtà che ammette che nella realtà ci sia qualcosa di più rispetto alla materia. Si ricordi, quindi, che vi sono almeno due tipi di metafisica: lo **spiritualismo** e il **materialismo**. Queste sono etichette che attraversano tutta la storia della filosofia, poiché i due approcci si ritrovano in diverse epoche e tradizioni filosofiche. Tra gli **spiritualisti**, ricordiamo filosofi come Platone, Cartesio e Hegel, che sono accomunati dal fatto di ritenere che oltre alla materia esista una dimensione immateriale o trascendentale. Al contrario, i **materialisti** sostengono che la realtà sia esclusivamente materiale e che anche i fenomeni psicologici e spirituali possano essere spiegati attraverso la materia. Tra i principali materialisti troviamo Epicuro, Marx e Nietzsche.
 
 Tra la fine del XIX secolo e l'inizio del XX secolo, si sviluppa una corrente filosofica particolare, che si radica soprattutto in Francia, e che prende il nome di **spiritualismo francese**. Questo movimento, che cerca di conciliare elementi spiritualisti con la modernità scientifica, ha avuto un'influenza notevole, specialmente nel pensiero filosofico e nelle scienze sociali.

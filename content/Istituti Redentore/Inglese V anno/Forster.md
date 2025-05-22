@@ -1,3 +1,8 @@
+---
+tags:
+  - altro_diverso_emarginato
+  - viaggio_esilio_migrazioni
+---
 Anti-imperialistic views:
 
 - Refusal of accepted values,

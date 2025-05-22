@@ -1,3 +1,9 @@
+---
+tags:
+  - figure_femminili
+  - altro_diverso_emarginato
+  - amore_affetti_famiglia
+---
 The handmaid is a woman who is responsible of carrying the child of a couple who is unable to conceive a child. 
 "*Behold my maid Bilhah. Go in unto her, and she shall bear upon my knees, that I may also have children by her*"
 ## Chapter XI

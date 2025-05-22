@@ -1,3 +1,7 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+---
 Gli ultimi decenni, in seguito alla caduta del bipolarismo, sono stati caratterizzati dall'emergere di forze e di dinamiche precedentemente tenute sotto controllo dal rigido dualismo USA-URSS. Questo dualismo era per certi versi limitativo della libertà dei vari paesi, ma d'altro canto sapeva tenere a bada la minaccia del terrorismo islamico. Finito il bipolarismo, però, le forze finanziate dagli Stati Uniti si sono rivoltate contro questi ultimi. È così che è possibile l'esplosione del fondamentalismo di matrice islamica, quel terrorismo che si palesa con tutta la sua forza d'urto con l'11 Settembre e l'attacco agli USA da parte del gruppo islamista Al-Qaeda.
 Come reazione all'11 settembre, l'amministrazione Bush decide di attaccare l'Afghanistan, in quanto si riteneva che il regime afghano dei talebani desse ospitalità a Bin Laden e ad Al-Qaeda. Questo scontro non è tuttavia giustificato dall'ONU. Dopo questa guerra durata 20 anni, finita con un nulla di fatto, il regime talebano è tornato, forse più forte di prima. 
 Avviene poi la guerra in Iraq, con il pretesto di liberare il paese dalle armi di distruzione di massa che avrebbe avuto Sadam Hussein, ovviamente non le aveva dio cane americani di merda. 

@@ -1,3 +1,8 @@
+---
+tags:
+  - guerra_conflitti_e_pace
+  - identità_e_coscienza
+---
 ## Dalla crisi post-bellica all'ascesa di fascismo e nazismo (1919-1922) 
 
 La crisi che pervade l'Europa post-bellica può essere *declinata* in diversi modi: <br>
