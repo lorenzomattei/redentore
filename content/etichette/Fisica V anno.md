@@ -6,5 +6,6 @@
 <br>
 [[Circuiti elettrici]] <br>
 <br>
-[[Cicuiti elettrici - approfondimento]]
+[[Circuiti elettrici - approfondimento.pdf]]
+
 
