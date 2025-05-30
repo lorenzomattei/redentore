@@ -4,4 +4,7 @@
 <br>
 [[Forza gravitazionale]] <br>
 <br>
+[[Circuiti elettrici]] <br>
+<br>
+[[Cicuiti elettrici - approfondimento]]
 
