@@ -2,7 +2,6 @@
 <br>
 [[SOCIALISMO]] <br>
 <br>
-<br>
 [[Antologia bergsoniana]]  <br>
  <br>
 [[Antologia nietzschiana]]  <br>
