@@ -1,6 +1,6 @@
 Lavori in corso... <br>
 <br>
-[[Maturità.md]]<br>
+[[Maturità]]<br>
 <br>
 [[Filosofia V anno]]<br>
 <br>
